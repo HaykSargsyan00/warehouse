@@ -1,8 +1,6 @@
 # Warehouse Data Structures and API
 #### *Engineer technical interview test 0001*
 
-Hey there! My name is Hayk, and I've developed a Warehouse Management System as a solution for a task. This system allows users to manage materials in warehouses efficiently.
-
 # Overview
 The Warehouse Management System includes classes and methods to handle the logic of material storage, movement, and observation. It supports multiple warehouses, each containing various materials with quantities. The system provides functionalities such as adding, removing, and transferring materials between warehouses.
 
